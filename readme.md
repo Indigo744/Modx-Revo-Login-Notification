@@ -42,27 +42,27 @@ Note that it is recommended to create a new Property Set instead of editing the 
 
 **mailFromName**: Sender's name - If empty, the `site_name` system settings will be used
 
-*default: ` ` (empty)*
+*default: ` `*  (empty)
 
 
 **mailFromEmail**: Sender's email - If empty, the `emailsender` system settings will be used
 
-*default: ` ` (empty)*
+*default: ` `*  (empty)
 
 
 **mailsTo**: Email addresses to send to (comma-separated) - If empty, current user address will be used
 
-*default: ` ` (empty)*
+*default: ` `*  (empty)
 
 
 **mailsToCC**: Email address to send to (comma-separated), as a Carbon Copy
 
-*default: ` ` (empty)*
+*default: ` `*  (empty)
 
 
 **mailsToBCC**: Email address to send to (comma-separated), as a Blind Carbon Copy
 
-*default: ` ` (empty)*
+*default: ` `*  (empty)
 
 
 **mailSubject**: Email subject - You can use Modx template tags (additional placeholders available, see documentation)
@@ -72,7 +72,7 @@ Note that it is recommended to create a new Property Set instead of editing the 
 
 **mailBody**: Email body - Either directly the content, or a chunk name - You can use Modx template tags (additional placeholders available, see documentation)
 
-*default: *
+*default:*
 ```
 
 A successful login was detected on the website [[++site_name]].
